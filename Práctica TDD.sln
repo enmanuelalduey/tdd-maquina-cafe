@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaquinaCafe", "MaquinaCafe\MaquinaCafe.csproj", "{CF9C439D-0E06-4876-8BEE-6AB93E887644}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaquinaCafe.Tests", "MaquinaCafe.Tests\MaquinaCafe.Tests.csproj", "{F805DFB8-412E-40DA-957A-DAA3464AD277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF9C439D-0E06-4876-8BEE-6AB93E887644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9C439D-0E06-4876-8BEE-6AB93E887644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9C439D-0E06-4876-8BEE-6AB93E887644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9C439D-0E06-4876-8BEE-6AB93E887644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F805DFB8-412E-40DA-957A-DAA3464AD277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F805DFB8-412E-40DA-957A-DAA3464AD277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F805DFB8-412E-40DA-957A-DAA3464AD277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F805DFB8-412E-40DA-957A-DAA3464AD277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AA354BB-9D39-4E90-9662-3E7DDD8DA120}
+	EndGlobalSection
+EndGlobal
